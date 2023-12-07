@@ -1,0 +1,2 @@
+﻿wallet_address,txHash,timestamp,tokenAddress,tokenVolume,tokenUSDAmount,lendBorrowType
+0xdd66f8ee84c30aefec2137e2c1133503d5721bb2,0xc9e93061c42ebd80af746da9e95a08721a2f652f4702a26dca90c73f04433dca,1701727004,0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f,0,0,COLLATERALISE
